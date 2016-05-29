@@ -10,7 +10,7 @@
 	}
 	"Map by gleb_erilov(Headshooter.SC) Special thanks to LonllY POMKA Said Z-O-M-B-I-E"
 	{
-		"chi"		"**地图制作：gleb_erilov(Headshooter.SC) 地图翻译：蓬莱山帅比♪                     特别感谢：LonllY POMKA Said Z-O-M-B-I-E **"
+		"chi"		"**地图制作：gleb_erilov(Headshooter.SC) 地图翻译：蓬莱山帅比♪  特别感谢：LonllY POMKA Said Z-O-M-B-I-E **"
 	}
 	"Type in console mat_colorcorrection 1 for dynamic effects!!"
 	{
@@ -249,6 +249,7 @@
 	{
 		"chi"		"**在这里守住25秒 **"
 		"DoorCountdown"		"25"
+		"ico"   "icon_alert_red "
 	}
 	"**And then go to the pool**"
 	{
