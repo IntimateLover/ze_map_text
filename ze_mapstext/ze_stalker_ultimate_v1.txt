@@ -18,7 +18,7 @@
 	}
 	"A player picked up meatchunk"
 	{
-		"chi"		"**一名玩家拿起推力 **"
+		"chi"		"**一名玩家拿起诱引 **"
 	}
 	"Zombie shield is activated. You have 15 seconds."
 	{
@@ -47,10 +47,13 @@
 	"Lab door 1 will open in 11 seconds"
 	{
 		"chi"		"**实验室门1将在11秒后打开 **"
+		"DoorCountdown"		"11"
+		"ico"   "icon_alert_red r"
 	}
 	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
 	{
 		"chi"		"**电梯1将在4秒后离开 **"
+		"DoorCountdown"		"4"
 	}
 	"Lab door 1 will open for zombies in 18 seconds"
 	{
@@ -63,10 +66,14 @@
 	"The gate 1 will open in 30 seconds"
 	{
 		"chi"		"**门1将在30秒后打开 **"
+		"DoorCountdown"		"30"
+		"ico"   "icon_alert_red "
 	}
 	"The gate 2 will open in 30 seconds"
 	{
 		"chi"		"**门2将在30秒后打开 **"
+		"DoorCountdown"		"30"
+		"ico"   "icon_alert_red "
 	}
 	"***The electricity in on. You can push the panels to open the gates***"
 	{
@@ -79,6 +86,8 @@
 	"Lab door 2 will open in 13 seconds"
 	{
 		"chi"		"**实验室门2将在13秒后打开 **"
+		"DoorCountdown"		"13"
+		"ico"   "icon_alert_red "
 	}
 	"Lab door 2 will open for zombies in 18 seconds"
 	{
@@ -88,14 +97,18 @@
 	{
 		"chi"		"**守住这里，窗子将在6秒后打开 **"
 		"DoorCountdown"		"6"
+		"ico"   "icon_alert_red "
 	}
 	"The Chernobyl gate will open in 20 seconds."
 	{
 		"chi"		"**切尔诺贝利核电站的大门将在20秒后开启 **"
+		"DoorCountdown"		"20"
+		"ico"   "icon_alert_red "
 	}
 	"Hold this position for 10 seconds!!"
 	{
 		"chi"		"**守住这里10秒 **"
+		"ico"   "icon_fire"
 	}
 	"Zombie sheld is activated for 30 seconds!!"
 	{
@@ -104,10 +117,12 @@
 	"Survive for 70 seconds"
 	{
 		"chi"		"**生存70秒 **"
+		"DoorCountdown"		"70"
+		"ico"   "icon_alert_red "
 	}
 	"The emission will be in 50 seconds. Find the bunker and hide in it!!!"
 	{
-		"chi"		"**核弹将在50秒后发射.找到一个安全的掩体并躲在里面 **"
+		"chi"		"**辐射将在50秒后排放.找到一个安全的掩体并躲在里面 **"
 	}
 	"**You win the round!!You unlock the hard mode.**"
 	{
@@ -120,15 +135,18 @@
 	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
 	{
 		"chi"		"**电梯2将在9秒后离开 **"
+		"DoorCountdown"		"9"
 	}
 	"**Hold the place for 25 seconds**"
 	{
 		"chi"		"**守住这个位置25秒 **"
 		"DoorCountdown"		"25"
+		"ico"   "icon_alert_red "
 	}
 	"***Break the spheres to escape***"
 	{
 		"chi"		"**赶紧打破中间圆柱的玻璃逃跑 **"
+		"ico"   "icon_fire"
 	}
 	"***OH NO WHO IS IT? WE MUST KILL IT!***"
 	{
@@ -148,11 +166,11 @@
 	}
 	"Bloodsucker is watching you..."
 	{
-		"chi"		"**吸血鬼在注视着你...... **"
+		"chi"		"**食尸鬼在注视着你...... **"
 	}
 	"**Bloodsucker have been defeated**"
 	{
-		"chi"		"**吸血鬼被打败了 **"
+		"chi"		"**食尸鬼被打败了 **"
 	}
 	"**Your items got more power**"
 	{
@@ -166,16 +184,20 @@
 	{
 		"chi"		"**等待门打开（10秒） **"
 		"DoorCountdown"		"10"
+		"ico"   "icon_alert_red "
+		
 	}
 	"**The door wil open in 10 seconds**"
 	{
 		"chi"		"**门会在10秒后打开 **"
 		"DoorCountdown"		"10"
+		"ico"   "icon_alert_red "
 	}
 	"**Hold this way for 10 seconds**"
 	{
 		"chi"		"**守住这里10秒 **"
 		"DoorCountdown"		"10"
+		"ico"   "icon_alert_red "
 	}
 	"**Its dead. Good job**"
 	{
@@ -184,6 +206,7 @@
 	"**1 PLAYER have to go to the command room to take documents**"
 	{
 		"chi"		"**1名玩家必须到指挥室去拿证件 **"
+		"ico"   "icon_fire"
 	}
 	"**The documents are here!**We are too close!**"
 	{
@@ -192,6 +215,7 @@
 	"**Defend a bit**The door will explode in a few seconds!**"
 	{
 		"chi"		"**守住这里**门会在几秒钟后爆炸！ **"
+		"ico"   "icon_fire"
 	}
 	"**RUN RUN RUN!!!**"
 	{
@@ -232,7 +256,7 @@
 	}
 	"**..We founded something unusial..**"
 	{
-		"chi"		"**.....我们发现了一些不寻常的.. **"
+		"chi"		"**..我们发现了一些不寻常的.. **"
 	}
 	"**.. Is it a new anomaly?!..**"
 	{
