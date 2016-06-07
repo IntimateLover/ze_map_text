@@ -246,7 +246,7 @@
 	}
 	"||| !!!WARNING!!! DANGER FROM ABOVE |||"
 	{
-		"chi"		"** **"
+		"chi"		"**！！！警告！！！天花板上有东西掉下来了（快躲避） **"
 	}
 	"||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||"
 	{
