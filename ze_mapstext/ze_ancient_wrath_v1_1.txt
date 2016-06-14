@@ -37,7 +37,7 @@
 	}
 	"||| DOOR IS CLOSING |||"
 	{
-		"chi"		"**门被关闭 **"
+		"chi"		"**门已关闭 **"
 	}
 	"||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
 	{
@@ -90,7 +90,7 @@
 	}
 	"||| DISABLE BOTH SECURITY STATIONS |||"
 	{
-		"chi"		"**安全检查站已被禁用（快走管道） **"
+		"chi"		"**安全检查站已被禁用 **"
 	}
 	"||| FIRST SECURITY STATION HAS BEEN DISABLED |||"
 	{
@@ -131,7 +131,7 @@
 	}
 	"||| DEFEND THE ABOVE THE TRAINS |||"
 	{
-		"chi"		"**保护上面的火车 **"
+		"chi"		"**保护下面的火车 **"
 	}
 	"||| STAGE 2 FINISHED |||"
 	{
@@ -160,7 +160,7 @@
 	}
 	"||| SHOOT THE CONTAINER |||"
 	{
-		"chi"		"**射击容器 **"
+		"chi"		"**射击中间的容器 **"
 	}
 	"||| CORE EXPLODES IN 170 SECONDS |||"
 	{
@@ -233,7 +233,7 @@
 	}
 	"||| CHAPTER 4 => SHOWDOWN |||"
 	{
-		"chi"		"**第4章=>摊牌 **"
+		"chi"		"**第4章=>决战 **"
 	}
 	"||| DEFEND THE TOP FOR 30 SECONDS |||"
 	{
